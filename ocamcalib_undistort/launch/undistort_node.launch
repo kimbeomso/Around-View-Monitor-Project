@@ -1,0 +1,18 @@
+<!-- http://wiki.ros.org/roslaunch/XML/node -->
+<launch>
+   <node name="undistort_node" pkg="ocamcalib_undistort" type="ocamcalib_undistort_node" output="screen">
+
+        <param type="string" name="camera_type" value="fisheye" />
+        <param type="string" name="base_in_topic" value="/camera/image_rear" />
+        <param type="string" name="base_out_topic" value="/ocamcalib_undistorted" />
+
+        <param type="string" name="calibration_file_path" value="include/calib_results_phantom_190_029_rear.txt" />	
+
+        <param type="string" name="transport_hint" value="raw" />
+        <param type="double" name="scale_factor" value="5" />
+        <param type="int" name="right_bound" value="1920" />
+        <param type="int" name="left_bound" value="0" />
+        <param type="int" name="bottom_bound" value="1208" />
+        <param type="int" name="top_bound" value="0" />
+    </node>
+</launch>
