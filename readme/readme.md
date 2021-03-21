@@ -20,7 +20,7 @@
 > - 
 
 ## System Architecture
-<p align="center"><img src="https://user-images.githubusercontent.com/56825894/111900443-f3249600-8a75-11eb-86e1-0d31a07ff713.PNG" width="600px"></p>  
+<p align="center"><img src="https://user-images.githubusercontent.com/56825894/111900443-f3249600-8a75-11eb-86e1-0d31a07ff713.PNG" width="800px"></p>  
 
 <p align="center"><img src="https://user-images.githubusercontent.com/56825894/111900444-f3bd2c80-8a75-11eb-8946-bd358c1b46d3.PNG" width="600px"></p>  
 
