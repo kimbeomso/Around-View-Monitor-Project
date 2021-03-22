@@ -1,4 +1,4 @@
-# 작품 제목
+# Around View Monitor로 Top Down View 영상 제작
 
 21년도 서울대 융합과학기술원 DYROS에서 진행한 동계융합프로그램 인턴 관련업무 AVM_IMG제작 Project에 대한 소스코드입니다.  
 
