@@ -40,8 +40,8 @@
 <p align="center"> Fisheye distortion이 있는 이미지를 Top Down View 로 변형한 결과</p>  
 
 <p align="center"><img src="https://user-images.githubusercontent.com/56825894/111957059-e021cc80-8b2e-11eb-8d1c-0f1ac86ad35a.gif" width="500px"></p>  
-<p align="center"> 사진2에 대한 설명 </p>  
+<p align="center"> backfile로 받은 전후좌우 카메라로 찍은 실내 주차장 이미지를 AVM 이미지로 제작한 결과</p>  
 
 <p align="center"><img src="https://user-images.githubusercontent.com/56825894/111957070-e3b55380-8b2e-11eb-9190-07f66662fcd6.gif" width="500px"></p>  
-<p align="center"> 사진3에 대한 설명 </p>  
+<p align="center"> backfile로 받은 전후좌우 카메라로 찍은 실외 주차장 이미지를 AVM 이미지로 제작한 결과 </p>  
 
