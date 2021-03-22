@@ -30,8 +30,12 @@
 
 ### Project scenario
 
-1. 
-2. 
+1. 전후 좌우 이미지를 input으로 넣어준다.
+2. intrinsic parameter와 affine parameter를 가지고 ocamcalib_undistort 패캐지를 이용하여 각 이미지의 픽셀들의 camera좌표계 기준 unit vector를 구한다.
+3. camera 좌표계 기준 unit vector를 extrinsic parameter를 이용하여 차량 좌표계 기준으로 unit vector를 구한다. 
+4. 차량 좌표계 기준으로 각각의 카마라의 위치를 알고 있으므로 카메라 위치를 지나고 3에서 구한 unit vector를 가지는 직선의 방정식을 구한다.
+5. 직선의 방정식의 Z값이 0이되는 X, Y좌표의 값을 구한다.
+6. AVM로 제작된 이미지에서 보고싶은 영역을(-10M ~ 10M) 정하고 원하는 크기의 이미지(width : 400, height :400)에 투영시킨다.
 
 
 ## 프로젝트 결과
