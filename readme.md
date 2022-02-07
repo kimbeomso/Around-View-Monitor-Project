@@ -7,10 +7,6 @@
 |:---:|:---:|:---:|
 | UBUNTU16.04|C++ |VSCODE |
 
-## 프로젝트 개발 동기
-
--  
-
 
 ## System Architecture
 <p align="center"><img src="https://user-images.githubusercontent.com/56825894/111900443-f3249600-8a75-11eb-86e1-0d31a07ff713.PNG" width="800px"></p>  
